@@ -1,0 +1,15 @@
+.jumbotronbackground{
+    background-image: url("https://leisuresquare.in/assets/img/home-one/feature10.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.abouttext{
+    margin-top: 5%;
+    text-align: center;
+    /* color: white; */
+}
+
+.heading-text {
+    color:white;
+}
